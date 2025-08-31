@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed Nagi
 
-🎯 **Senior Full-Stack Developer | Angular • Node.js • Ionic | WordPress • React Native**
+🎯 **Senior Full-Stack Developer | Angular • Node.js • Ionic | WordPress **
 
 Welcome to my GitHub! I’m a Cairo-based software engineer with 8+ years of experience building performance-driven web and mobile applications. I specialize in delivering full-stack solutions using Angular, Node.js, and Ionic — while also bringing flexibility with WordPress and React Native.
 
